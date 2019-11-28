@@ -5,4 +5,4 @@ The processing code(ARVIS.pde) runs a GUI and asks the user to select the Arduin
 Note:
 1) When oscilloscope.pde runs the arduino should be connected to a COM port.
 2) ARVIS.pde and green.jpg should be kept in same processing sketch book folder for the program to run.
-3) Read the Extra_Details.pdf for more details.
+
